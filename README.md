@@ -1,6 +1,6 @@
 # BackseatDriver
 
-TODO: Write a gem description
+A wrapper for Google's Drive gem. Because like a backseat driver I think my way is a little better
 
 ## Installation
 
