@@ -15,6 +15,6 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = BackseatDriver::VERSION
 
-  s.add_development_dependency 'rspec'
-  s.add_development_dependency 'cucumber'
+  gem.add_development_dependency 'rspec'
+  gem.add_development_dependency 'cucumber'
 end
